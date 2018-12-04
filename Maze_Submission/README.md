@@ -1,4 +1,4 @@
-# Udacity Build an apartment project for the Udacity [VR Developer Nanodegree]
+# Udacity Maze project for Udacity [VR Developer Nanodegree]
 
 
 
@@ -7,8 +7,10 @@
 - Project: Maze project #3 -
 - Versions Used
 : [Unity Release 2017.4.4f1]-
-- VR_SDK_VERSION: 1.100.1
+- GVR_SDK_VERSION: 1.100.1
 - Scene : Main.
+- Description of the project: 
+The player has to search the maze to find the key to the temple. In order to reach the key, 10 coins and 5 groot babies must be collected. 
 
 - STUDENT NAME: WAAD FAHAD ALSHEHRI -
 - Target Platform: Android -
